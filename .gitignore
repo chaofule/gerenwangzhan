@@ -1,0 +1,11 @@
+# 依赖目录(体积大,可随时用 npm install 恢复)
+node_modules/
+vendor/
+
+# 构建产物(可随时用 npm run build 重新生成)
+dist/
+
+# 日志与系统文件
+*.log
+.DS_Store
+Thumbs.db
